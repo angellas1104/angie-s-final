@@ -1,0 +1,23 @@
+body{
+	background:#1C1C1C;
+	color:white;
+	
+}
+
+.canvas{
+    width:200％;
+    min-height:650px;
+
+}
+.axis .tick line{
+    stroke:rgb(150,150,150);
+}
+
+.axis .tick line{
+    stroke-width:.5px;
+}
+
+.node{
+    stroke:white;
+    stroke-width:0px;
+}

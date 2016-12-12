@@ -1,0 +1,38 @@
+
+h1 {color:#FCFAF2}
+text{
+	fill: #FCFAF2;
+}
+h1 {font-family:Berthold Akzidenz Grotesk;}
+
+
+.axis .tick line{
+    stroke:#FCFAF2;
+}
+.axis .domain{
+    display:none;
+}
+.axis .tick line{
+    stroke:rgb(150,150,150);
+}
+
+.axis .tick line{
+    stroke-width:.5px;
+}
+
+.node{
+    stroke:#FCFAF2;
+    stroke-width:0px;
+}
+
+.custom-tooltip {
+	position: relative;
+	top:0;
+	left:0;
+}
+img{
+	width:195.75px;
+	position:absolute;
+	top:220px;
+	left:1300px;
+}
